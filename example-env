@@ -1,0 +1,9 @@
+KEYCLOAK_SERVER=http://localhost:8080
+KEYCLOAK_REALM=auth
+KEYCLOAK_CLIENT_ID=arcjob
+KEYCLOAK_CLIENT_SECRET=dKDQbGTqgm3b2CNGMPBkA5xv7VhlS7fL
+KEYCLOAK_ADMIN_USERNAME=admin
+KEYCLOAK_ADMIN_PASSWORD=admin
+MONGO_URI=mongodb://admin:secret@localhost:27011/job-portal?authSource=admin
+REDIRECT_URI=http://localhost:3001/api
+
